@@ -25,3 +25,11 @@ code: ./hw4
 ## Rankings
 
 ![](./rankings.png)
+
+## References
+
+Credits to the original authors.
+
+- https://github.com/cmudeeplearning11785/deep-learning-tutorials/
+- https://github.com/pytorch/examples/
+- ...
