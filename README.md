@@ -22,3 +22,6 @@ code: ./hw3pt2
 
 code: ./hw4
 
+# Rankings
+
+[rankins](./rankings.png)
